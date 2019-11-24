@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47e3511b-13f2-4416-8d56-157eaae8b4fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/principle/CRPrinciple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/principle/DIPrinciple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/principle/ISPrinciple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/principle/LSPrinciple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/principle/LoDemeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/principle/OCPrinciple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/principle/SRPrinciple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure/OrderArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/OrderArray.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="struts_2_5" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -34,7 +43,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/androidCode/shangcheng" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -48,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Barrel">
+  <component name="RunManager" selected="Application.LoDemeter">
     <configuration name="Barrel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="the_sorting.Barrel" />
       <module name="Demo" />
@@ -62,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Choose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="the_sorting.Choose" />
+    <configuration name="DIPrinciple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="principle.DIPrinciple" />
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="the_sorting.*" />
+          <option name="PATTERN" value="principle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="the_sorting.Count" />
+    <configuration name="ISPrinciple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="principle.ISPrinciple" />
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="the_sorting.*" />
+          <option name="PATTERN" value="principle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Insert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="the_sorting.Insert" />
+    <configuration name="LSPrinciple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="principle.LSPrinciple" />
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="the_sorting.*" />
+          <option name="PATTERN" value="principle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Radix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="the_sorting.Radix" />
+    <configuration name="LoDemeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="principle.LoDemeter" />
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="the_sorting.*" />
+          <option name="PATTERN" value="principle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LoDemeter" />
+        <item itemvalue="Application.ISPrinciple" />
+        <item itemvalue="Application.LSPrinciple" />
+        <item itemvalue="Application.DIPrinciple" />
         <item itemvalue="Application.Barrel" />
-        <item itemvalue="Application.Radix" />
-        <item itemvalue="Application.Insert" />
-        <item itemvalue="Application.Count" />
-        <item itemvalue="Application.Choose" />
       </list>
     </recent_temporary>
   </component>
@@ -145,6 +154,9 @@
       <workItem from="1568685577207" duration="11134000" />
       <workItem from="1568772021505" duration="15287000" />
       <workItem from="1569391732491" duration="3007000" />
+      <workItem from="1571020863631" duration="5000" />
+      <workItem from="1574470192292" duration="8083000" />
+      <workItem from="1574563004586" duration="4249000" />
     </task>
     <servers />
   </component>

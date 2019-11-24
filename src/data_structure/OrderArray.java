@@ -2,6 +2,8 @@ package data_structure;
 
 /**
  * 有序数组
+ * 有点：查询效率高
+ * 缺点：删除和插入慢，大小固定
  */
 public class OrderArray {
 
