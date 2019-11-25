@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47e3511b-13f2-4416-8d56-157eaae8b4fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/principle/CRPrinciple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/principle/DIPrinciple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/principle/ISPrinciple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/principle/LSPrinciple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/principle/LoDemeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/principle/OCPrinciple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/principle/SRPrinciple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/module/AbstractFactoryText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/module/FactoryMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/module/ProtoType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/module/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/A_Cattle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/A_Horse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/config1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/config2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/OrderArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/OrderArray.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +43,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/androidCode/shangcheng" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/resources" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/resources" />
+      <recent name="$PROJECT_DIR$/src/module" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -57,26 +67,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LoDemeter">
-    <configuration name="Barrel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="the_sorting.Barrel" />
+  <component name="RunManager" selected="Application.FactoryMethod">
+    <configuration name="FactoryMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module.FactoryMethod" />
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="the_sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DIPrinciple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="principle.DIPrinciple" />
-      <module name="Demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="principle.*" />
+          <option name="PATTERN" value="module.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,13 +120,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProtoType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module.ProtoType" />
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FactoryMethod" />
+        <item itemvalue="Application.ProtoType" />
         <item itemvalue="Application.LoDemeter" />
         <item itemvalue="Application.ISPrinciple" />
         <item itemvalue="Application.LSPrinciple" />
-        <item itemvalue="Application.DIPrinciple" />
-        <item itemvalue="Application.Barrel" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +166,10 @@
       <workItem from="1569391732491" duration="3007000" />
       <workItem from="1571020863631" duration="5000" />
       <workItem from="1574470192292" duration="8083000" />
-      <workItem from="1574563004586" duration="4249000" />
+      <workItem from="1574563004586" duration="4264000" />
+      <workItem from="1574592755804" duration="7756000" />
+      <workItem from="1574672889519" duration="3334000" />
+      <workItem from="1574685090250" duration="6137000" />
     </task>
     <servers />
   </component>
