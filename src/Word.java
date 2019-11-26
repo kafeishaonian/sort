@@ -20,5 +20,9 @@
  * builder 建筑者/建立者 【笔有的】
  * instance 实例 【硬思tn思】
  * parse 解析，理解 【怕子】
- *
+ * director 指挥者，主任，主管 【的ruai可特】
+ * Target 目标 【它若该特】
+ * specific 特殊【思破C非可】
+ * refined 精确的【瑞法恩的】
+ * bridge 桥接【不瑞吃】
  */
