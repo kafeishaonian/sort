@@ -25,4 +25,6 @@
  * specific 特殊【思破C非可】
  * refined 精确的【瑞法恩的】
  * bridge 桥接【不瑞吃】
+ * decorator
+ *
  */
