@@ -2,16 +2,100 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47e3511b-13f2-4416-8d56-157eaae8b4fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/structure_module/DecoratorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure_module/FacadeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure_module/FlyweightDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_model/Behavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_model/TemplateMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure_model/CompositeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure_model/StructureModule.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/BridgeDemo$Abstraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/structure_module/BridgeDemo$Abstraction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/BridgeDemo$ConcreteImplementor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/structure_module/BridgeDemo$ConcreteImplementor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/BridgeDemo$RefinedAbstraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/structure_module/BridgeDemo$RefinedAbstraction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/BridgeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/structure_module/BridgeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/AbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/AbstractFactoryText$AbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/AbstractFactoryText$ConcreteFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/AbstractFactoryText$ConcreteProduct11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/AbstractFactoryText$ConcreteProduct12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/AbstractFactoryText$Product1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/AbstractFactoryText$Product2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/AbstractFactoryText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/AnimalFarm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/BuilderDemo$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/BuilderDemo$ConcreteBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/BuilderDemo$Director.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/BuilderDemo$Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/BuilderDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/Cattle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/CattleFarm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/Citation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/ConcreteFactory1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/ConcreteFactory2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/ConcreteProduct1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/ConcreteProduct2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/FactoryMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/Horse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/HorseFarm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/HungrySingletom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/LazySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/ProtoType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/ProtoTypeManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/ReadXML1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/RealizeType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/create_module/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/AdapterDemo$AdapteeRealize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/AdapterDemo$Adapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/AdapterDemo$ClassAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/AdapterDemo$ObjectAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/AdapterDemo$Target.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/AdapterDemo$TargetRealize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/AdapterDemo$TwoWayAdaptee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/AdapterDemo$TwoWayAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/AdapterDemo$TwoWayTarget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/AdapterDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/BridgeDemo$Abstraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/BridgeDemo$ConcreteImplementor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/BridgeDemo$Implementor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/BridgeDemo$RefinedAbstraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/BridgeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/DecoratorDemo$Component.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/DecoratorDemo$ConcreteComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/DecoratorDemo$ConcreteDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/DecoratorDemo$Decorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/DecoratorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/FacadeDemo$Facade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/FacadeDemo$SubSystem01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/FacadeDemo$SubSystem02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/FacadeDemo$SubSystem03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/FacadeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/FlyweightDemo$BlackPieces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/FlyweightDemo$ChessPieces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/FlyweightDemo$Chessboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/FlyweightDemo$ConcreteFlyweight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/FlyweightDemo$Flyweight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/FlyweightDemo$FlyweightFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/FlyweightDemo$UnsharableConcreteFlyweight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/FlyweightDemo$WeiqiFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/FlyweightDemo$WhitePieces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/FlyweightDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/ProxyDemo$Proxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/ProxyDemo$RealSubject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/ProxyDemo$Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/structure_module/ProxyDemo.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Word.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure_module/BridgeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure_module/BridgeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/create_module/AbstractFactoryText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/create_model/AbstractFactoryText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/create_module/BuilderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/create_model/BuilderDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/create_module/CreateModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/create_model/CreateModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/create_module/FactoryMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/create_model/FactoryMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/create_module/ProtoType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/create_model/ProtoType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/create_module/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/create_model/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure_module/AdapterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure_model/AdapterDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure_module/BridgeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure_model/BridgeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure_module/DecoratorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure_model/DecoratorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure_module/FacadeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure_model/FacadeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure_module/FlyweightDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure_model/FlyweightDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure_module/ProxyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure_model/ProxyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure_module/StructureModule.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,26 +151,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FlyweightDemo">
-    <configuration name="AdapterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structure_module.AdapterDemo" />
+  <component name="RunManager" selected="Application.TemplateMethodDemo">
+    <configuration name="CompositeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structure_model.CompositeDemo" />
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structure_module.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BridgeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structure_module.BridgeDemo" />
-      <module name="Demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="structure_module.*" />
+          <option name="PATTERN" value="structure_model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +166,11 @@
       </method>
     </configuration>
     <configuration name="DecoratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structure_module.DecoratorDemo" />
+      <option name="MAIN_CLASS_NAME" value="structure_model.DecoratorDemo" />
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structure_module.*" />
+          <option name="PATTERN" value="structure_model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +179,11 @@
       </method>
     </configuration>
     <configuration name="FacadeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structure_module.FacadeDemo" />
+      <option name="MAIN_CLASS_NAME" value="structure_model.FacadeDemo" />
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structure_module.*" />
+          <option name="PATTERN" value="structure_model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +192,24 @@
       </method>
     </configuration>
     <configuration name="FlyweightDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structure_module.FlyweightDemo" />
+      <option name="MAIN_CLASS_NAME" value="structure_model.FlyweightDemo" />
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structure_module.*" />
+          <option name="PATTERN" value="structure_model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplateMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavior_model.TemplateMethodDemo" />
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="behavior_model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TemplateMethodDemo" />
+        <item itemvalue="Application.CompositeDemo" />
         <item itemvalue="Application.FlyweightDemo" />
         <item itemvalue="Application.FacadeDemo" />
         <item itemvalue="Application.DecoratorDemo" />
-        <item itemvalue="Application.BridgeDemo" />
-        <item itemvalue="Application.AdapterDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +257,8 @@
       <workItem from="1574734398554" duration="5231000" />
       <workItem from="1574772226645" duration="6850000" />
       <workItem from="1574835487154" duration="4774000" />
-      <workItem from="1574858835860" duration="4862000" />
+      <workItem from="1574858835860" duration="4963000" />
+      <workItem from="1574910782978" duration="11149000" />
     </task>
     <servers />
   </component>

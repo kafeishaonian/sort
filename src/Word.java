@@ -22,9 +22,23 @@
  * parse 解析，理解 【怕子】
  * director 指挥者，主任，主管 【的ruai可特】
  * Target 目标 【它若该特】
+ * way  方法【喂】
  * specific 特殊【思破C非可】
  * refined 精确的【瑞法恩的】
  * bridge 桥接【不瑞吃】
- * decorator
- *
+ * decorator 装饰者【地可瑞特】
+ * operation 运算/运营【奥破瑞申】
+ * component 组件/组成【康泡嫩特】
+ * leaf 叶子【类付】
+ * composite  合成/复合材料【康母怕zaI特】
+ * facade 正面，表面【佛撒的】
+ * system 体系，制度【C思特母】
+ * sub 代替【撒波】
+ * flyweight 享元【付啦爱为特】
+ * sharable 共享【晒额报】
+ * un 东西，家伙【按】
+ * subject 主题/起因，科目【色波宅可特】
+ * real 真实的【瑞奥】
+ * template 样板，模板【它木破类特】
+ * hook 钩子，勾住【后课】
  */
