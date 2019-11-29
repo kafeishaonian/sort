@@ -41,4 +41,7 @@
  * real 真实的【瑞奥】
  * template 样板，模板【它木破类特】
  * hook 钩子，勾住【后课】
+ * Strategy
+ * Command
+ *
  */
