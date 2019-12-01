@@ -35,7 +35,7 @@ public class CommandMethodDemo {
         CommandMethodDemo demo = new CommandMethodDemo();
 //        demo.setCommand();
         demo.setComposite();
-        
+
     }
 
     private void setCommand(){
