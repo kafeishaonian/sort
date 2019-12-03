@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47e3511b-13f2-4416-8d56-157eaae8b4fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/behavior_model/ChainOfResponsibility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_model/ObserverMethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_model/StateMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_model/IteratorMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_model/MediatorMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_model/VisitorMethodDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior_model/CommandMethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior_model/CommandMethodDemo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,9 +62,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ObserverMethodDemo">
-    <configuration name="ChainOfResponsibility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavior_model.ChainOfResponsibility" />
+  <component name="RunManager" selected="Application.VisitorMethodDemo">
+    <configuration name="IteratorMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavior_model.IteratorMethodDemo" />
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CommandMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavior_model.CommandMethodDemo" />
+    <configuration name="MediatorMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavior_model.MediatorMethodDemo" />
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrategyMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavior_model.StrategyMethodDemo" />
+    <configuration name="VisitorMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavior_model.VisitorMethodDemo" />
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
@@ -131,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VisitorMethodDemo" />
+        <item itemvalue="Application.IteratorMethodDemo" />
+        <item itemvalue="Application.MediatorMethodDemo" />
         <item itemvalue="Application.ObserverMethodDemo" />
         <item itemvalue="Application.StateMethodDemo" />
-        <item itemvalue="Application.ChainOfResponsibility" />
-        <item itemvalue="Application.CommandMethodDemo" />
-        <item itemvalue="Application.StrategyMethodDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -174,6 +173,9 @@
       <workItem from="1575032651572" duration="8540000" />
       <workItem from="1575117254072" duration="8108000" />
       <workItem from="1575187491457" duration="3082000" />
+      <workItem from="1575252219764" duration="10127000" />
+      <workItem from="1575290678640" duration="2406000" />
+      <workItem from="1575341246693" duration="798000" />
     </task>
     <servers />
   </component>
