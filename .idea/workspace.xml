@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47e3511b-13f2-4416-8d56-157eaae8b4fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/behavior_model/IteratorMethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_model/MediatorMethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_model/VisitorMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_model/InterpreterMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_model/MementoMethodDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/behavior_model/VisitorMethodDemo$ConcreteElementA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/behavior_model/VisitorMethodDemo$ConcreteElementA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/behavior_model/VisitorMethodDemo$ConcreteElementB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/behavior_model/VisitorMethodDemo$ConcreteElementB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/behavior_model/VisitorMethodDemo$ConcreteVisitorA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/behavior_model/VisitorMethodDemo$ConcreteVisitorA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/behavior_model/VisitorMethodDemo$ConcreteVisitorB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/behavior_model/VisitorMethodDemo$ConcreteVisitorB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/behavior_model/VisitorMethodDemo$ObjectStructure.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/behavior_model/VisitorMethodDemo$ObjectStructure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/behavior_model/VisitorMethodDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/behavior_model/VisitorMethodDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior_model/Behavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior_model/Behavior.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VisitorMethodDemo">
+  <component name="RunManager" selected="Application.MementoMethodDemo">
     <configuration name="IteratorMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="behavior_model.IteratorMethodDemo" />
       <module name="Demo" />
@@ -89,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObserverMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavior_model.ObserverMethodDemo" />
+    <configuration name="MementoMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavior_model.MementoMethodDemo" />
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StateMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavior_model.StateMethodDemo" />
+    <configuration name="ObserverMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavior_model.ObserverMethodDemo" />
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MementoMethodDemo" />
         <item itemvalue="Application.VisitorMethodDemo" />
         <item itemvalue="Application.IteratorMethodDemo" />
         <item itemvalue="Application.MediatorMethodDemo" />
         <item itemvalue="Application.ObserverMethodDemo" />
-        <item itemvalue="Application.StateMethodDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +181,8 @@
       <workItem from="1575187491457" duration="3082000" />
       <workItem from="1575252219764" duration="10127000" />
       <workItem from="1575290678640" duration="2406000" />
-      <workItem from="1575341246693" duration="798000" />
+      <workItem from="1575341246693" duration="11330000" />
+      <workItem from="1575424863485" duration="1315000" />
     </task>
     <servers />
   </component>
