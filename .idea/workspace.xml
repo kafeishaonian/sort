@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47e3511b-13f2-4416-8d56-157eaae8b4fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/behavior_model/InterpreterMethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_model/MementoMethodDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/behavior_model/VisitorMethodDemo$ConcreteElementA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/behavior_model/VisitorMethodDemo$ConcreteElementA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/behavior_model/VisitorMethodDemo$ConcreteElementB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/behavior_model/VisitorMethodDemo$ConcreteElementB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/behavior_model/VisitorMethodDemo$ConcreteVisitorA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/behavior_model/VisitorMethodDemo$ConcreteVisitorA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/behavior_model/VisitorMethodDemo$ConcreteVisitorB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/behavior_model/VisitorMethodDemo$ConcreteVisitorB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/behavior_model/VisitorMethodDemo$ObjectStructure.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/behavior_model/VisitorMethodDemo$ObjectStructure.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/behavior_model/VisitorMethodDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/behavior_model/VisitorMethodDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior_model/Behavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior_model/Behavior.java" afterDir="false" />
-    </list>
+    <list default="true" id="47e3511b-13f2-4416-8d56-157eaae8b4fd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +171,7 @@
       <workItem from="1575252219764" duration="10127000" />
       <workItem from="1575290678640" duration="2406000" />
       <workItem from="1575341246693" duration="11330000" />
-      <workItem from="1575424863485" duration="1315000" />
+      <workItem from="1575424863485" duration="1406000" />
     </task>
     <servers />
   </component>
