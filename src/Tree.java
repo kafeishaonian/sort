@@ -24,9 +24,156 @@
  *      基本操作：
  */
 
+import the_sorting.Barrel;
+
+import java.lang.reflect.Array;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 /**
  * 树的定义和实现
  */
-public class Tree{
+public class Tree {
 
+    private Object data;
+    private List<Tree> childs;
+
+    public Tree(){
+        data = null;
+        childs = new ArrayList<>();
+        childs.clear();
+    }
+
+    public Tree(Object data){
+        this.data = data;
+        childs = new ArrayList<>();
+        childs.clear();
+    }
+
+    /**
+     * 添加子树
+     * @param tree
+     */
+    public void addNode(Tree tree){
+        childs.add(tree);
+    }
+
+    /**
+     * 置空树
+     */
+    public void clearTree(){
+        data = null;
+        childs.clear();
+    }
+
+    /**
+     * 求树的深度
+     * @return
+     */
+    public int dept(){
+        return dept(this);
+    }
+
+    /**
+     * 求树的深度
+     * @param tree
+     * @return
+     */
+    private int dept(Tree tree){
+        if (tree.isEmpty()){
+            return 0;
+        } else if (tree.isLeaf()){
+            return 1;
+        } else {
+            int n = childs.size();
+            int[] a = new int[n];
+            for (int i = 0 ; i < n; i++){
+                if (childs.get(i).isEmpty()){
+                    a[i] = 1;
+                } else{
+                    a[i] = dept(childs.get(i)) + 1;
+                }
+            }
+            Arrays.sort(a);
+            return a[n-1];
+        }
+    }
+
+    /**
+     * 返回第i个子树
+     * @param i
+     * @return
+     */
+    public Tree getChild(int i){
+        return childs.get(i);
+    }
+
+    /**
+     * 求第一个孩子结点
+     * @return
+     */
+    public Tree getFirstChild(){
+        return childs.get(0);
+    }
+
+    /**
+     * 判断是否为空树
+     * @return
+     */
+    private boolean isEmpty(){
+        if (childs.isEmpty() && data == null){
+            return true;
+        }
+        return false;
+    }
+
+    /**
+     * 求最后一个孩子结点
+     * @return
+     */
+    public Tree getLastChild(){
+        return childs.get(childs.size() - 1);
+    }
+
+
+    public List<Tree> getChilds(){
+        return childs;
+    }
+
+    /**
+     * 判断是否为叶子结点
+     * @return
+     */
+    private boolean isLeaf(){
+        if (childs.isEmpty()){
+            return true;
+        }
+        return false;
+    }
+
+    /**
+     * 获取根结点的数据
+     * @return
+     */
+    public Object getRootData(){
+        return data;
+    }
+
+
+    /**
+     * 获取树根
+     * @return
+     */
+    public Tree root(){
+        return this;
+    }
+
+    /**
+     * 设置根结点的数据
+     * @param data
+     */
+    public void setRootData(Object data){
+        this.data = data;
+    }
 }

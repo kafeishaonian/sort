@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47e3511b-13f2-4416-8d56-157eaae8b4fd" name="Default Changelist" comment="" />
+    <list default="true" id="47e3511b-13f2-4416-8d56-157eaae8b4fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/Demo/behavior_model/InterpreterMethodDemo$AbstractExpression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo/behavior_model/InterpreterMethodDemo$Context.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo/behavior_model/InterpreterMethodDemo$NonterminalExpression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo/behavior_model/InterpreterMethodDemo$TerminalExpression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo/behavior_model/InterpreterMethodDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo/the_sorting/BinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo/the_sorting/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Word.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior_model/Behavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior_model/Behavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/the_sorting/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/the_sorting/BinaryTree.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +50,13 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/resources" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/resources" />
       <recent name="$PROJECT_DIR$/src/module" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -57,7 +71,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MementoMethodDemo">
+  <component name="RunManager" selected="Application.BinaryTree">
+    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="the_sorting.BinaryTree" />
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="the_sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IteratorMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="behavior_model.IteratorMethodDemo" />
       <module name="Demo" />
@@ -97,19 +124,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObserverMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavior_model.ObserverMethodDemo" />
-      <module name="Demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="behavior_model.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="VisitorMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="behavior_model.VisitorMethodDemo" />
       <module name="Demo" />
@@ -125,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinaryTree" />
         <item itemvalue="Application.MementoMethodDemo" />
         <item itemvalue="Application.VisitorMethodDemo" />
         <item itemvalue="Application.IteratorMethodDemo" />
         <item itemvalue="Application.MediatorMethodDemo" />
-        <item itemvalue="Application.ObserverMethodDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -172,6 +186,13 @@
       <workItem from="1575290678640" duration="2406000" />
       <workItem from="1575341246693" duration="11330000" />
       <workItem from="1575424863485" duration="1406000" />
+      <workItem from="1575444139806" duration="1459000" />
+      <workItem from="1575879494379" duration="7000" />
+      <workItem from="1576073601103" duration="55000" />
+      <workItem from="1576073682435" duration="806000" />
+      <workItem from="1576396764001" duration="7781000" />
+      <workItem from="1576461867688" duration="371000" />
+      <workItem from="1576462265993" duration="1326000" />
     </task>
     <servers />
   </component>
